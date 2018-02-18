@@ -1,0 +1,5 @@
+.DS_Store/
+*~
+input/*.json
+output/*.json
+node_modules/
